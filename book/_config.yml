@@ -30,7 +30,7 @@ sphinx:                                              # Options passed on to the 
     html_baseurl:  "https://<user/org>.io/<repo>"    # Replace this with your own URL, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
     html_theme_options:
       logo:
-        text:        <Data Literacy Handbook>          # Replace this with your own book title, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
+        text:        "Data Literacy Handbook"          # Replace this with your own book title, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
         image_light: TeachBooks_logo.svg             # Put your logo for the light mode here (can be the same as image_dark), configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
         image_dark:  TeachBooks_logo_inverted.svg    # Put your logo for the dark mode here (can be the same as image_light), configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
       repository_url: "https://pbollini.github.io/data-literacy/" # Add your own repo URL here, configuration part of Jupyterbook v1 (https://jupyterbook.org/en/stable/customize/config.html)
