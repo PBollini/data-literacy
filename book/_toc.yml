@@ -12,9 +12,8 @@ parts:
     - file: about/what-is-data-literacy.md
       sections:
       - file: about/how-to-use-this-handbook.md
-      - file: paths/intro.md
       - file: about/roadmap.md
-    - file: Pathways
+    - file: paths/intro.md
       sections:
       - file: paths/thesis.md
       - file: paths/fundamental.md
