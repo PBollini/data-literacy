@@ -13,14 +13,16 @@ parts:
       sections:
       - file: about/how-to-use-this-handbook.md
       - file: about/roadmap.md
+    
     - file: paths/intro.md
       sections:
       - file: paths/thesis.md
-      - file: paths/fundamental.md
-      - file: paths/developing.md
-      - file: paths/consolidated.md
-      - file: paths/personal-data.md
+      #- file: paths/fundamental.md
+     # - file: paths/developing.md
+     # - file: paths/consolidated.md
+     # - file: paths/personal-data.md
       - file: paths/teacher.md
+    
     - file: syntax_exercises.md
       sections:
       - file: syntax_exercises/007.md
@@ -30,6 +32,7 @@ parts:
       - file: syntax_exercises/011.md
       - file: syntax_exercises/012.md
       - file: syntax_exercises/013.md
+      
     - file: extensions.md
       sections:
       - file: exercises/007.md
@@ -37,6 +40,7 @@ parts:
       - file: extension_exercises/014.md
       - file: extension_exercises/015.md
       - file: extension_exercises/016.md
+      
   - caption: Miscellaneous
     chapters:
     - file: references.md
