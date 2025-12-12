@@ -15,9 +15,13 @@ parts:
       - file: about/roadmap.md
   - caption: Pathways
     chapters:
-    - file: paths/intro-path.md
+    - file: paths/intro.md
       sections:
-      - file: paths/student.md
+      - file: paths/thesis.md
+      - file: paths/fundamental.md
+      - file: paths/developing.md
+      - file: paths/consolidated.md
+      - file: paths/personal-data.md
       - file: paths/teacher.md
     - file: syntax_exercises.md
       sections:
