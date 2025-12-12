@@ -45,3 +45,4 @@ parts:
     - file: references.md
     - file: changelog.md
     - file: credits.md
+    - file: file_to_be_added_to_toc.md
