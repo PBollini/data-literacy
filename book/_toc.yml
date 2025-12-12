@@ -11,10 +11,10 @@ parts:
     chapters:
     - file: about/what-is-data-literacy.md
       sections:
-      #- file: about/how-to-use-this-handbook.md
+      - file: about/how-to-use-this-handbook.md
       - file: paths/intro.md
       - file: about/roadmap.md
-  - caption: Pathways
+    - file: Pathways
       sections:
       - file: paths/thesis.md
       - file: paths/fundamental.md
