@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# Welcome to the Data Literacy Handbook
 
-_This is the first page the student will see when opening the url._
+_This handbook is a work in progress, you can check the status of our progress in the {ref}`Roadmap page. <roadmap>`_
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+This handbook collects resources for students and teachers!
