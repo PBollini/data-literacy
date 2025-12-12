@@ -11,8 +11,7 @@ parts:
     chapters:
     - file: about/what-is-data-literacy.md
       sections:
-      - file: about/how-to-use-this-handbook.md
-      - file: about/roadmap.md
+      #- file: about/how-to-use-this-handbook.md
     
     - file: paths/intro.md
       sections:
