@@ -13,7 +13,6 @@ parts:
       sections:
       - file: some_content/text_and_code.ipynb
       - file: file_to_be_added_to_toc.md
-      - external: https://github.com/TeachBooks/manual/blob/release/book/examples/book_structure.md
   - caption: Exercises
     chapters:
     - file: exercises.md
