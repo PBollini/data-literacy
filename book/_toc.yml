@@ -24,6 +24,7 @@ parts:
     
     - file: syntax_exercises.md
       sections:
+      - file: file_to_be_added_to_toc.md
       - file: syntax_exercises/007.md
       - file: syntax_exercises/008.md
       - file: syntax_exercises/009.md
