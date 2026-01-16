@@ -123,7 +123,7 @@ sphinx:                                              # Options passed on to the 
 
 teachbooks:
   attribution_location: top                          # Default value (line can be removed), sets location of attribution admonition of external pages, configuration part of TeachBooks package (https://teachbooks.io/manual/features/external_toc.html)
-  attribution_color: "blue"                            # Default value (line can be removed), uses blue colour for attribution admonition of external pages, configuration part of TeachBooks package (https://teachbooks.io/manual/features/external_toc.html)
+  attribution_color: null                            # Default value (line can be removed), uses blue colour for attribution admonition of external pages, configuration part of TeachBooks package (https://teachbooks.io/manual/features/external_toc.html)
 
 bibtex_bibfiles: 
   - references.bib                                   # Required for references, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
