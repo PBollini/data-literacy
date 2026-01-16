@@ -59,7 +59,6 @@ parts:
       - file: extension_exercises/016.md
   
   
-  
   - caption: Miscellaneous
     chapters:
     - file: references.md
