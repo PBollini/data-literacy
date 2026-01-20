@@ -63,14 +63,14 @@ parts:
       -file: long-term/why-keeping-data.md
   - caption: Privacy and Security 
     chapters:
-    - file: intro.md
+    - file: privacy/intro.md
       sections:
-      - file: when-privacy.md
-      - file: when-security.md
-    - file: privacy-course.md
+      - file: privacy/when-privacy.md
+      - file: privacy/when-security.md
+    - file: privacy/privacy-course.md
       sections:
-      - file: ch1.md
-      - file: ch2.md
+      - file: privacy/ch1.md
+      - file: privacy/ch2.md
     # here it may be relevant to reuse content from UU Handbook: http://oit.tudelft.nl/TUDelft-template/main/exercises/005a.html
   - caption: Miscellaneous
     chapters:
