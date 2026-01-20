@@ -52,23 +52,23 @@ parts:
 
   - caption: Re-using data
     chapters:
-    - file: privacy/intro.md
+    - file: reuse/intro.md
 
   - caption: Collecting data
     chapters:
-    - file: privacy/intro.md
+    - file: collection/intro.md
 
   - caption: Analysing data
     chapters:
-    - file: privacy/intro.md
+    - file: analysis/intro.md
 
   - caption: Interpretation and Evaluation
     chapters:
-    - file: privacy/intro.md
+    - file: interpret/intro.md
 
   - caption: Storage
     chapters:
-    - file: privacy/intro.md
+    - file: storage/intro.md
 
   - caption: Long term preservation
     chapters:
