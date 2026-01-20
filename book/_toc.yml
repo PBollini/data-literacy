@@ -90,6 +90,8 @@ parts:
       sections:
       - file: privacy/ch1.md
       - file: privacy/ch2.md
+      - external: https://github.com/TeachBooks/manual/blob/release/book/examples/book_structure.md
+      - external: https://github.com/UtrechtUniversity/dataprivacyhandbook/blob/main/book/chapters/personal-data.Rmd
     # here it may be relevant to reuse content from UU Handbook: http://oit.tudelft.nl/TUDelft-template/main/exercises/005a.html
   
   - caption: Miscellaneous
