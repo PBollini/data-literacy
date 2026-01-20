@@ -51,14 +51,24 @@ parts:
       - file: extension_exercises/016.md
 
   - caption: Re-using data
+    chapters:
+    - file: privacy/intro.md
 
   - caption: Collecting data
+    chapters:
+    - file: privacy/intro.md
 
   - caption: Analysing data
+    chapters:
+    - file: privacy/intro.md
 
   - caption: Interpretation and Evaluation
+    chapters:
+    - file: privacy/intro.md
 
   - caption: Storage
+    chapters:
+    - file: privacy/intro.md
 
   - caption: Long term preservation
     chapters:
