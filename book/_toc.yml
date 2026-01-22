@@ -12,6 +12,7 @@ parts:
     chapters:
     - file: about/what-is-data-literacy.md
     - file: about/how-to-use-this-handbook.md
+    - file: about/roadmap.md
     - file: paths/intro.md
       sections:
       - file: paths/BAstudent.md
